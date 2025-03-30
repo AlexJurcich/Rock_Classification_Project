@@ -21,3 +21,4 @@ This project applies various classification algorithms to predict rock categorie
 ## Dataset
 1. **aggregateRockData.xlsx**: Contains rock categories (labels).
 2. **features_presence540.txt**: Contains 11 features used for classification.
+3. **trialData.csv**: Contains human predictions.
